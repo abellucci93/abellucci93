@@ -20,6 +20,6 @@ I specialize in programming, automation, and DevOps practices, focusing on scala
 
 - 🔭 I’m currently working at [iliad](https://www.iliad.it/)
 - 🌱 I'm currently focusing on
-  - **Certified Kubernetes Administrator (CKA)**: Expanding my knowledge and skills in Kubernetes cluster management and operations.
   - **Certified Kubernetes Security Specialist (CKS)**: Enhancing my expertise in securing container-based applications and infrastructure.
 - 💬 Feel free to reach out for collaboration, or just to chat about software engineering and DevOps!
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/andreabellucci93/)**

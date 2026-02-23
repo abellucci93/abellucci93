@@ -22,5 +22,5 @@ I specialize in programming, automation, and DevSecOps practices, focusing on sc
 - 🌱 I'm currently focusing on
   - **Kata practice**: Sharpening my programming skills through small, focused, and repeatable coding exercises
   - **Data Structures and Algorithms**: Refreshing core concepts and improving problem-solving techniques
-- 💬 Feel free to reach out for collaboration, or just to chat about software engineering and DevOps!
+- 💬 Feel free to reach out for collaboration, or just to chat about software engineering and DevSecOps!
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/andreabellucci93/)**

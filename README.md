@@ -26,4 +26,4 @@ I specialize in programming, automation, and DevSecOps practices, focusing on sc
   - **Kyverno**: Studying Kubernetes-native policy management to improve cluster security and governance with Kyverno
   - **gRPC**: Exploring the fundamentals of high-performance, contract-first communication between services
 - 💬 Feel free to reach out for collaboration, or just to chat about software engineering and DevSecOps!
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/andreabellucci93/)**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/andreabellucci93/)**, WebSocket IRC (wss://irc.abellucci93.dev)
